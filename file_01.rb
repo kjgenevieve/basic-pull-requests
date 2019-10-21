@@ -1,3 +1,3 @@
 image = "NO DEER ALLOWED"
 
-puts image 
+puts image
